@@ -1,4 +1,7 @@
 # CS 686 project
+Reinforcement Learning as an Alternative to Simulated Annealing for MaxSAT \
+\
+Mostly out of curiosity.
 # Minimal setup
 
 1. Make sure the problemset folder is in the same directory as the .py file
